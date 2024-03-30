@@ -2,7 +2,7 @@
 
 ## About me: - 
  - I am a Robotics Engineer and I have keen interests in doing some Robotics projects, with some design and modelling analysis included. I love to work on ROS2. 
- - I am from Delhi, India . I currently live in Genova, Italy. 
+ - I am from Delhi, India <img src="https://github.com/aayush11101998/aayush11101998/assets/91724060/da6a4a1a-2316-4c66-a3f8-6440dbfcd6e6" alt="image7" width="20">. I currently live in Genova, Italy <img src="https://github.com/aayush11101998/aayush11101998/assets/91724060/d2532296-434d-4dec-bf73-29521827f81f" alt="image8" width="20">. 
  - 📫 How to reach me: ... Easy just email me on: **vatsaayush11@gmail.com**.
  - I am currently looking for a job related to Robotics Engineering.
  - 👯 You can reach me out if you have a project or a job related to Robotics, especially if the profile includes: ***Design***, ***Modelling***, or ***ROS2***. I will be super Happy to work on it with you and your team😄.
@@ -19,7 +19,7 @@
 **aayush11101998/aayush11101998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![image](https://github.com/aayush11101998/aayush11101998/assets/91724060/c1db43d8-7ebe-40c2-8e20-05e42cd4a17f)
+![image](https://github.com/aayush11101998/aayush11101998/assets/91724060/d2532296-434d-4dec-bf73-29521827f81f)
 
 
 
