@@ -14,7 +14,7 @@
 - <img src= "https://github.com/aayush11101998/aayush11101998/assets/91724060/10a13ac8-4433-40db-8c98-6cbd177671f3" alt = "image3" width = "200"> <img src= "https://github.com/aayush11101998/aayush11101998/assets/91724060/e3c689cc-12d2-485c-9dfa-4bb8411266f3" alt = "image4" width = "200">
 - <img src= "https://github.com/aayush11101998/aayush11101998/assets/91724060/81cfdcd6-a3ca-4938-8104-56a3bc58cd95" alt = "image5" width = "200">
 - <img src= "https://github.com/aayush11101998/aayush11101998/assets/91724060/c1db43d8-7ebe-40c2-8e20-05e42cd4a17f" alt = "image6" width = "200"> 
-- <img src= "https://www.istockphoto.com/photo/3d-printing-machine-detail-gm629461782-112023127" alt = "image7" width = "200">
+- <img src= "[https://www.istockphoto.com/photo/3d-printing-machine-detail-gm629461782-112023127](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2F3d-printing&ved=0CBUQjRxqFwoTCMCql53Y25EDFQAAAAAdAAAAABAI&opi=89978449)" alt = "image7" width = "200">
 <!--![image]()
 
 **aayush11101998/aayush11101998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
